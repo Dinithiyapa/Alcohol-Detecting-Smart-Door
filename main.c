@@ -1,4 +1,12 @@
-// main.c
+// -------------------------------------------------------------------------------------------------------
+// PROJECT           :  Alcohol-Detecting-Smart-Door
+// FILE NAME         : main.c
+// LANGUAGE          : C
+// AUTHOR            : Dinithi Yapa
+// CONTRIBUTORS      : Nethmini Rathnayeka
+// DATE              : 2024/09/07
+// DESCRIPTION       : Microcontroller-based automated door system with alcohol detection and IR sensor functionality.
+// -------------------------------------------------------------------------------------------------------
 #include <xc.h>
 #include "lcd.h"
 
